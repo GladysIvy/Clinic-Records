@@ -1,0 +1,11 @@
+/home/ezzy/IdeaProjects/clinic/src/main/java/com/clinic/dao/impl/PatientDaoImpl.java
+/home/ezzy/IdeaProjects/clinic/src/main/java/com/clinic/services/PatientServiceImpl.java
+/home/ezzy/IdeaProjects/clinic/src/main/java/com/clinic/controllers/ClinicRecordsController.java
+/home/ezzy/IdeaProjects/clinic/src/main/java/com/clinic/dao/impl/DrugDaoImpl.java
+/home/ezzy/IdeaProjects/clinic/src/main/java/com/clinic/services/DrugServiceImpl.java
+/home/ezzy/IdeaProjects/clinic/src/main/java/com/clinic/dao/DrugDao.java
+/home/ezzy/IdeaProjects/clinic/src/main/java/com/clinic/models/Drug.java
+/home/ezzy/IdeaProjects/clinic/src/main/java/com/clinic/services/PatientService.java
+/home/ezzy/IdeaProjects/clinic/src/main/java/com/clinic/models/Patient.java
+/home/ezzy/IdeaProjects/clinic/src/main/java/com/clinic/dao/PatientDao.java
+/home/ezzy/IdeaProjects/clinic/src/main/java/com/clinic/services/DrugService.java
